@@ -1,0 +1,3 @@
+RewriteEngine On
+RewriteRule ^index dispatch.fcgi/index
+RewriteRule ^zip dispatch.fcgi/zip
